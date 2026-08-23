@@ -32,6 +32,8 @@ Notes for farming and crafting high-tier gems for endgame Pit pushing. Farming r
 - **1 Flawless Horadric gem = 25 Grand gems**
 - From fragments: **25,000,000 fragments + 7,500 Forgotten Souls** per Flawless Horadric gem.
 
+The two 5:1 upgrades use the **Amalgamation Recipe** in the Horadric Cube. The Cube requires the **Lord of Hatred** expansion and is unlocked through its campaign.
+
 ## Gem Fragment Conversion
 
 Each recipe converts **150 fragments of two source colors** into **200 target fragments**:
@@ -108,6 +110,6 @@ Upgrading an existing Horadric Skull to Flawless requires four additional Horadr
 - **20,000,000 Skull fragments**
 - **6,000 Forgotten Souls**
 
-Direct Grand or Horadric drops reduce the cost.
+Direct Grand drops reduce the cost.
 
 Farm Seer's Reach or Escalating Nightmare Dungeons → collect Royal and Grand gems → salvage unwanted gems → convert Amethyst and Diamond fragments to Skulls → craft Grand Skulls → `5 Grand → Horadric` → `5 Horadric → Flawless Horadric`.
