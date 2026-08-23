@@ -1,5 +1,18 @@
 # Diablo IV Season 14 – Gem Farming
 
+*The Gemonomicon*
+
+```text
+   _____ ____ _____
+  /    /      \    \
+/____ /_________\____\
+\    \          /    /
+   \  \        /  /
+      \ \    / /
+        \ \/ /
+          \/
+```
+
 Notes for farming and crafting high-tier gems for endgame Pit pushing. Farming results were verified in **Torment XII**; lower tiers may differ.
 
 ## Gem Tiers
